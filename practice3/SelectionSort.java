@@ -1,5 +1,9 @@
 package practice3;
 
+/**
+ * TASK 1 
+ * compareTo - сранивает значение и return 0 если они равны, иначе возвращает число
+ */
 public class SelectionSort {
     public static void main(String[] args) {
         String[] array = {"a", "v", "b", "s", "r", "f", "k", "l", "o"};
